@@ -1,2 +1,14 @@
 # NewCoding
-New repository
+# Hi there! 👋 I'm Emaan
+
+Welcome to my GitHub profile!
+
+## About Me
+- 👨‍💻 I'm a [Developer ].
+- 🌱 I’m currently learning [BS-IT from UMT ].
+- 💬 Ask me about [Topics you are knowledgeable about].
+- 📫 How to reach me: [Your contact info, e.g., email or social media link].
+
+
+
+Feel free to explore my repositories
